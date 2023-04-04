@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
-import { g11Context } from "../context";
-import { movies } from "../mock/movies";
+import { g11Context } from "../../constants/Context";
+import { movies } from "../../constants/Movies";
 import { Container, Wrap,Wrap2, InputWrap, Button } from "./style";
 
 export default function  Navbar() {

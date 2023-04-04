@@ -1,7 +1,7 @@
 import React, { useContext, } from "react";
 import { Container, Wrap} from "./style";
 
-import { g11Context } from "../context";
+import { g11Context } from "../../constants/Context";
 
 
 export default function Sidebar() {
