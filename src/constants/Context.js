@@ -1,8 +1,7 @@
-import { type } from "./Type";
+import { type } from "./type";
 import React, { createContext, useState} from "react";
-// import {movies} from "./Movies"
-import { data } from "./Data";
-import { movies } from "./Movies/constants";
+import { data } from "./data";
+import {movies} from "./movies";
 
 export const g11Context= createContext()
 export default function Context({children}){

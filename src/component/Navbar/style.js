@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { ReactComponent as Vector } from "../icon/Vector.svg";
+import { ReactComponent as Vector } from "../../assets/icon/Vector.svg";
 
 
 
