@@ -1,0 +1,31 @@
+export const type= [
+    {
+        id:7,
+        name:"All"
+    },
+{
+    id:1,
+    name:"Kino"
+},
+{
+    id:2,
+    name:"Drama"
+},
+{
+    id:3,
+    name:"Melodrama"
+},
+{
+    id:4,
+    name:"Fantastic"
+},
+{
+    id:5,
+    name:"Comedy"
+},
+{
+    id:6,
+    name:"Action"
+},
+
+]
