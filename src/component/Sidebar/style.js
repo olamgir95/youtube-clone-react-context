@@ -15,6 +15,14 @@ const Wrap = styled.div`
   color: white;
   display: flex;
   gap: 20px;
+  padding: 5px 10px;
+  box-sizing:border-box;
+  cursor: pointer;
+  &:hover {
+    background: grey;
+    border-radius: 10px;
+    
+  }
 `;
 Wrap.Title = styled.div``;
 Wrap.Img = styled.img``;

@@ -1,6 +1,6 @@
 
 import { ReactComponent as main } from "../assets/icon/main.svg"
-import { ReactComponent as shorts } from "../assets/icon/shorts.svg"
+import { ReactComponent as shorts } from "../assets/icon/video.svg"
 import { ReactComponent as library } from "../assets/icon/kitab.svg"
 import { ReactComponent as history } from "../assets/icon/kechmish.svg"
 import { ReactComponent as yourvideo } from "../assets/icon/video.svg"
